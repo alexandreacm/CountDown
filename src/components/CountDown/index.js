@@ -51,6 +51,6 @@ const styles = StyleSheet.create({
     viewHours: {
         padding: 50,
         borderRadius: 16,
-        backgroundColor: 'rgba(94, 132, 226, 0.3)'
+        backgroundColor: 'rgba(0,0,0, 0.8)'
     }
 });
