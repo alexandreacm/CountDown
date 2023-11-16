@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="FedDigital" height="80" title="Plant Manager" src=".github/logo.png" />
+  <img alt="CountDown" height="80" title="CountDown" src=".github/logo.png" />
 </h1>
 
 <p align="center">
@@ -8,46 +8,13 @@
 
 ![cover](.github/cover.png?style=flat)
 
-![cover](.github/meals-to-go-architecture.png?style=flat)
-
 ## 💻 Project
 
-An example of application to meals to go.
-
-# Team
-
-- Here must contain the names of everyone in the team, at the moment that
-  project is created
-  - Developer: Alexandre Marques
-  - Scrum Master: XXXX XXXX
-
-# To Navigation
-
-To navigation, We are using @react-navigation/native V5 as the main library.
-
-# To Stylization
-
-To styling issues, we use styled-components as the main library.
-
-## Features
-
-- [ ] Authentication;
-- [ ] Register User;
-- [ ] Favorite Restaurants;
-- [ ] Detail Restaurant;
-- [ ] View Restaurants on the map;
+An example of countdown project.
 
 ## ✨ Technologies
 
 - [ ] Expo CLI
-- [ ] Expo Vector Icons
-- [ ] React Navigation V5
-- [ ] Context API
-- [ ] Firebase
-- [ ] lottie-react-native
-- [ ] react-native-maps
-- [ ] react-native-paper
-- [ ] styled-components
 
 ## Running the project
 
@@ -76,17 +43,6 @@ yarn jest or yarn test
 │   └── icons
 │   └── images
 ├── components
-├── hooks
-├── navigation
-├── screens
-├── services
-├── styles
-    └── theme
-        └── colors
-        └── fonts
-        └── spacings
-        └── sizes
-├── utils
 ```
 
 <div align="center">
